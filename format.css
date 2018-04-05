@@ -1,5 +1,9 @@
+
 body{
-	background-color: green;
+	background-color: white;
+	margin-left: 35%;
+	
+	
 }	
 img{
 	width: 100%;	
@@ -27,14 +31,42 @@ img{
 
 /* width will be 100% of content */
 #refreshButton{
-	width: 100%;
+	width: 50%;
+	
 }
 #sendButton{
-	width: 100%;
+	width: 50%;
+	
 }
 #ledOnButton{
-	width: 100%;
+	width: 50%;
+	
 }
 #ledOffButton{
-	width: 100%;
+	width: 50%;
+	
 }
+#disconnectButton{
+	width: 50%;
+}
+
+#setLight{
+	width: 50%;
+}
+
+.lighSlider{
+	width: 50%;
+}
+.slider{
+	background: gray;
+	width: 50%;
+}
+
+#picture{
+	margin-left: 5%;
+	width: 100px; 
+	height: 100px;
+}
+	
+
+	
